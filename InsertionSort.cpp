@@ -26,3 +26,10 @@ void input (){
         cout << "Data ke-" << (i+i) << ": ";
         cin >> arr[i];
     }
+}
+
+void insertionsort(){
+    int temp;
+    int j;
+
+    
