@@ -15,3 +15,11 @@ void input (){
         else{
             cout << "\nArray Tidak Boleh Lebih dari 20\n";
         }
+
+        }
+    cout << endl;
+    cout << "=============================================";
+    cout << "==========Masukan Element Array==============";
+    cout << "=============================================" << endl;
+
+    
