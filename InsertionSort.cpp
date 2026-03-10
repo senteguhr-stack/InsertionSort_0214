@@ -26,6 +26,7 @@ void input (){
         cout << "Data ke-" << (i+i) << ": ";
         cin >> arr[i];
     }
+    
 }
 
 void insertionsort(){
@@ -60,3 +61,9 @@ void display(){
     cout << endl;
 }
 
+int main(){
+    input();
+    insertionsort();
+    display();
+    system("pause");
+} 
